@@ -100,7 +100,7 @@
             </div>
         </div>
 
-        <!-- Team Members Row -->
+        <!-- Team Members-->
         <div class="row">
             <div class="col-lg-12">
                 <h2 class="page-header">Our Team</h2>
@@ -177,3 +177,5 @@
 </body>
 
 </html>
+
+
